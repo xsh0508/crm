@@ -7,3 +7,4 @@ update dev01
 update master01
 update dev02
 hello
+localhost
